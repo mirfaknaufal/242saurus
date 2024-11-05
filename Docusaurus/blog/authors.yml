@@ -1,23 +1,17 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+mirfaknaufal:
+  name: Mirfak Naufal Pratama Putra
+  title: mirfaknaufal
+  url: https://github.com/mirfaknaufal
+  image_url: https://github.com/mirfaknaufal.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    github: mirfaknaufal
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+ebiyo:
+  name: Arief Ridzki Darmawan
+  title: ebiyo
+  url: https://github.com/ebiyo
+  image_url: https://github.com/ebiyo.png
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: ebiyo
